@@ -1,4 +1,8 @@
 # Ex-07-Feature-Selection
+# DATE:
+GITHUB LINK:https://github.com/dineshdk154/Ex-07-Feature-Selection/edit/main/README.md
+
+COLAB LINK:https://colab.research.google.com/drive/1PcwP8EHg1_WQKxSE8_Mm1sNfKZOk5ux8#scrollTo=0YG35SgiBYto
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
