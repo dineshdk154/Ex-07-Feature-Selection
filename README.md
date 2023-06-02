@@ -23,8 +23,8 @@ Save the data to the file
 
 # CODE
 ```
-Developed by:Adhithya Perumal.D
-Registor No :212222230007
+Developed by:DINESH KUMAR M
+Registor No :212221220011
 ```
 ```
 from sklearn.datasets import load_boston
